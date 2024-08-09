@@ -7,6 +7,7 @@
         <client_callable>false</client_callable>
         <description>This script is deliberately empty. It's used to workaround a new feature in
 Istanbul Patch 4 that requires a real record to be passed to GlideScopedEvaluator.</description>
+        <mobile_callable>false</mobile_callable>
         <name>snd_Xplore_code</name>
         <script><![CDATA[/**
  * This script is deliberately empty. It's used to workaround a new feature in

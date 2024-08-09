@@ -6,6 +6,7 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Spoke specification for snd_Xplore</description>
+        <mobile_callable>false</mobile_callable>
         <name>snd_Xplore_spec</name>
         <script><![CDATA[/*!
   Spoke specification for snd_Xplore

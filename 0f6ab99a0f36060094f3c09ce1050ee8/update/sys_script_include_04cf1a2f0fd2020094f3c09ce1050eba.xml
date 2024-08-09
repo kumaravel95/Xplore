@@ -6,6 +6,7 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Exploratory programming script used by Xplore UI. Can also be used anywhere: new snd_Xplore().xplore(obj) will use gs.print to show the object and what it contains.</description>
+        <mobile_callable>false</mobile_callable>
         <name>snd_Xplore</name>
         <script><![CDATA[var snd_Xplore = function () {
   this.prettyPrinter = new snd_Xplore.PrettyPrinter();
